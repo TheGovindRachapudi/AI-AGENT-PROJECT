@@ -3,14 +3,15 @@
 A user-friendly research assistant that leverages ChatGPT, DuckDuckGo, and Wikipedia to answer your questions, compare results, and save findings—all from a simple web interface.
 
 ## Features
-- Query ChatGPT, DuckDuckGo, and Wikipedia in parallel
+- Query ChatGPT, Google, and Wikipedia in parallel
 - Compare answers from multiple sources
 - Save your preferred results to a text file
 - Clean, interactive web UI powered by Streamlit
+- Download Research Output from Text File
 
 ## Demo
 Application URL:
-https://thegovindrachapudi-ai-agent-project-app-dd43ri.streamlit.app/
+
 
 1. Enter your research question in the input box.
 2. Click **Search** to get answers from all sources.
