@@ -9,8 +9,8 @@ A user-friendly research assistant that leverages ChatGPT, DuckDuckGo, and Wikip
 - Clean, interactive web UI powered by Streamlit
 
 ## Demo
-
-![Demo Screenshot](demo_screenshot.png)
+Application URL:
+https://thegovindrachapudi-ai-agent-project-app-dd43ri.streamlit.app/
 
 1. Enter your research question in the input box.
 2. Click **Search** to get answers from all sources.
