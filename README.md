@@ -1,6 +1,6 @@
 # AI Research Agent
 
-A user-friendly research assistant that leverages ChatGPT, DuckDuckGo, and Wikipedia to answer your questions, compare results, and save findings—all from a simple web interface.
+A user-friendly research assistant that leverages ChatGPT, Google, and Wikipedia to answer your questions, compare results, and save findings—all from a simple web interface.
 
 ## Features
 - Query ChatGPT, Google, and Wikipedia in parallel
@@ -49,7 +49,7 @@ streamlit run app.py
 ## File Structure
 - `app.py` — Streamlit web interface
 - `main.py` — Command-line version
-- `tools.py` — Tool definitions (ChatGPT, DuckDuckGo, Wikipedia, Save)
+- `tools.py` — Tool definitions (ChatGPT, Google Search, Wikipedia, Save)
 - `requirements.txt` — Python dependencies
 - `research_output.txt` — Saved research results
 
