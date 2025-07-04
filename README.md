@@ -10,12 +10,12 @@ A user-friendly research assistant that leverages ChatGPT, DuckDuckGo, and Wikip
 - Download Research Output from Text File
 
 ## Demo
-Application URL:
+Application URL: https://thegovindrachapudi-ai-agent-project-app-dd43ri.streamlit.app/
 
 
 1. Enter your research question in the input box.
 2. Click **Search** to get answers from all sources.
-3. Review the results from ChatGPT, DuckDuckGo, and Wikipedia.
+3. Review the results from ChatGPT, Google Search, and Wikipedia.
 4. Select which result(s) to save and click **Save Selected Result**.
 
 ---
