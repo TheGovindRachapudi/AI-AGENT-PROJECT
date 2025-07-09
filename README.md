@@ -1,4 +1,4 @@
-# AI Research Agent
+# NewsIQ
 
 A user-friendly research assistant that leverages ChatGPT, Google, and Wikipedia to answer your questions, compare results, and save findings—all from a simple web interface.
 
